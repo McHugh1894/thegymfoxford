@@ -1,26 +1,13 @@
 <img src="assets/images/homepage-logo.png" style="margin: 0;">
 
-Welcome McHugh1894,
+Description
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+this is a fictional business website created for my milestone project 1
 
-## Gitpod Reminders
+A modern styled website for a fictional gym that is fully equipped and standards with added classes and long opening hours. It's hope is to attract new members through an easy to use website.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Wireframes
+The completed wireframes for this project can be accesed by clicking (wireframes [text](https://link))
 
 ## Updates Since The Instructional Video
 
