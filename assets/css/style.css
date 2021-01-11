@@ -60,16 +60,14 @@ h1 {
 
 .container-wrapper{
   background: url("../images/hero-image.jpg") ;
-  background-color:#ffffff;
   color: black;
   }
 
 .content-container {
-  background-color: #ffffff;
-  columns: #000000;
   padding-top: 75px;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: #ffffff;
   
 }
 .page-header {
@@ -97,7 +95,8 @@ h1 {
   text-align: center;
   margin-top: 40px;
   margin-bottom: 40px;
-
+  background-color: #ffffff;
+  
 }
 
 .feature i {
@@ -106,10 +105,13 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  background-color: #ffffff;
+  
   
 }
 .content {
   background-color: #ffffff;
+  color: #ffffff;
   margin: 0px;
   text-align: center;
   padding: 30px;
@@ -121,6 +123,11 @@ h1 {
 /*End About*/
 
 /*Membership Page*/
+.container-wrapper{
+  background: url("../images/hero-image.jpg") ;
+  color: black;
+  }
+
 
 .overlay-card {
   width: 100%;
@@ -181,21 +188,27 @@ h1 {
 /*End Membership Page*/
 
 /*Contact Page*/
+.container-wrapper{
+  background: url("../images/hero-image.jpg") ;
+  color: black;
+  position: relative;
+  padding-bottom: 50px;
+  }
 
 .contact-heading {
     font-family: "Roboto";
-    font-style: italic;
+    font-style: bold;
     font-weight: 300;
     margin-top: 100px;
     margin-bottom: 20px;
 }
 
 .center-form {
-    padding-top: 130px;
+    padding-top: 50px;
     padding-bottom: 110px;
     margin: 0 auto;
     max-width: 60%;
-}
+    }
 
 
 button[type="submit"] {
@@ -203,6 +216,7 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #025df0;
+    border-color: #ffffff;
 }
 
 /*End Contact Page*/
