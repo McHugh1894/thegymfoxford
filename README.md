@@ -94,4 +94,4 @@ The technologies i have used for this project are:
 
 In order to help the website load faster all of the images were removed from the website and then uploaded to [Tinypng](http://https://tinypng.com/) in order to compress the images to more reasonable file sizes to increase loading speed.
 
-![picture](assets/readme-images/tinypngscreenshot.png)
+![picture] (assets/images/readme-images/tinypngscreenshot.png) 
