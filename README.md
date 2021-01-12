@@ -71,14 +71,21 @@ The technologies i have used for this project are:
 * [Equipment-Image](https://www.sportsjoe.ie/world-of-sport/6-best-pieces-gym-equipment-according-fitness-pros-203880) - Equipment image resource. 
 * [Staff-Image] (https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) - Staff image resource
 * [Location-Image] (Screenshot uploaded) Location Image Resource
-* [Group-Class-Image] (https://www.pinterest.ie/pin/779333910505040746/) Group Class Image Resource
-* [Personal-Training-Image] (https://1-life.ca/personal-training-nutrition/) Personal Training Image Resource
-* [Physio-Image] (https://nextlevelphysiotherapy.com/) Physio Image Resource
-* [Sign-Up-Image-One] (https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) Sign Up Image One
-* [Sign-Up-Image-Two] (https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) Sign Up Image Two
+* [Group-Class-Image] (https://www.pinterest.ie/pin/779333910505040746/) - Group Class Image Resource.
+* [Personal-Training-Image] (https://1-life.ca/personal-training-nutrition/) - Personal Training Image Resource.
+* [Physio-Image] (https://nextlevelphysiotherapy.com/) - Physio Image Resource.
+* [Sign-Up-Image-One] (https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) - Sign Up Image One.
+* [Sign-Up-Image-Two] (https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) -Sign Up Image Two.
 * [Tinypng](http://https://tinypng.com/) - Website used to compress my images to allow for faster loading times. 
 * [Stack Overflow](https://fonts.google.com/) - Resource which provided the fonts for the website
 * [Font Awesome](https://fontawesome.com/) - Used to provide small icons for the website.
 * [Favicon](https://favicon.io/) - Used to create favicon for the website
 * [W3C HTML Validator](https://validator.w3.org/) - Used to test HTML code on the website.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to test the CSS code on the website.
+
+## Testing
+
+### Error Testing
+
+* [W3C HTML Validator](https://validator.w3.org/) - ALL HTML pages passed with no errors after corrections made.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - CSS style sheet passed with no errors.
