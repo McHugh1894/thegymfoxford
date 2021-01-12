@@ -67,15 +67,15 @@ The technologies i have used for this project are:
 
 ## External resources
 
-* [Hero-Image](https://www.sportirelandcampus.ie/facilities/national-indoor-arena-private-gym) - Hero Image resource.
-* [Equipment-Image](https://www.sportsjoe.ie/world-of-sport/6-best-pieces-gym-equipment-according-fitness-pros-203880) - Equipment Image resource. 
-* [Staff-Image](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) - Staff Image resource
-* [Location-Image](Screenshot uploaded) Location Image Resource
-* [Group-Class-Image](https://www.pinterest.ie/pin/779333910505040746/) - Group Class Image Resource.
-* [Personal-Training-Image](https://1-life.ca/personal-training-nutrition/) - Personal Training Image Resource.
-* [Physio-Image](https://nextlevelphysiotherapy.com/) - Physio Image Resource.
-* [Sign-Up-Image-One](https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) - Sign Up Image One Resource.
-* [Sign-Up-Image-Two](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) -Sign Up Image Two Resource.
+* [Hero Image](https://www.sportirelandcampus.ie/facilities/national-indoor-arena-private-gym) - Hero Image resource.
+* [Equipment Image](https://www.sportsjoe.ie/world-of-sport/6-best-pieces-gym-equipment-according-fitness-pros-203880) - Equipment Image resource. 
+* [Staff Image](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) - Staff Image resource
+* [Location Image](https://www.google.com/maps/@53.9958889,-9.0691308,14.75z) Location Image Resource - Screenshot Taken.
+* [Group Class Image](https://www.pinterest.ie/pin/779333910505040746/) - Group Class Image Resource.
+* [Personal Training Image](https://1-life.ca/personal-training-nutrition/) - Personal Training Image Resource.
+* [Physio Image](https://nextlevelphysiotherapy.com/) - Physio Image Resource.
+* [Sign Up Image One](https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) - Sign Up Image One Resource.
+* [Sign Up Image Two](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) -Sign Up Image Two Resource.
 * [Tinypng](http://https://tinypng.com/) - Website used to compress my images to allow for faster loading times. 
 * [Stack Overflow](https://fonts.google.com/) - Resource which provided the fonts for the website
 * [Font Awesome](https://fontawesome.com/) - Used to provide small icons for the website.
@@ -137,4 +137,4 @@ The user can contact the gym by clicking the contact section of the navigation b
 
 ### Credited Code  
 * [Bootstrap](https://getbootstrap.com/) - Documents used for support with bootstrap classes.
-* []
+* [Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/b51f7b8b815c4bcd9979d2281b6d97a9/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40b51f7b8b815c4bcd9979d2281b6d97a9) This link is where i got footer code.I modified it to suit the needs of my website.
