@@ -58,9 +58,14 @@ h1 {
 
 /*About*/
 
-.container-wrapper{
+.background { 
   background: url("../images/hero-image.jpg") ;
-  color: black;
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
   }
 
 .content-container {
@@ -79,7 +84,7 @@ h1 {
   margin-top: 0;
 }
 .page-title-about {
-  background-color: #ffffff;
+  
   color: #000000;
   font-family: "Roboto";
   margin: 50px 0px;
@@ -93,15 +98,10 @@ h1 {
 .feature {
   display: inline;
   text-align: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  background-color: #ffffff;
+  margin-bottom: 11cm;
   padding-bottom: 30px;
   padding-top: 40px;
-  
-
-  
-}
+  }
 
 .feature i {
   
@@ -109,18 +109,16 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  background-color: #ffffff;
   color: #025df0;
   
-  
-  
 }
+
+
 .content {
-  background-color: #ffffff;
-  color: #ffffff;
   margin: 0px;
   text-align: center;
-  padding: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   height: 100%;
 }
 
@@ -129,9 +127,13 @@ h1 {
 /*End About*/
 
 /*Membership Page*/
-.container-wrapper{
-  background: url("../images/hero-image.jpg") ;
-  color: black;
+.membership-background {
+ background: url("../images/hero-image.jpg") ;
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
   }
 
 
@@ -205,7 +207,7 @@ h1 {
     margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 50%;
+    max-width: 60%;
     color: #ffffff;
     text-transform: uppercase;
     display: block;
