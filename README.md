@@ -94,4 +94,36 @@ The technologies i have used for this project are:
 
 In order to help the website load faster all of the images were removed from the website and then uploaded to [Tinypng](http://https://tinypng.com/) in order to compress the images to more reasonable file sizes to increase loading speed.
 
-<img src="assets/images/readme-images/tinypngscreenshot.png">>
+<img src="assets/images/readme-images/tinypngscreenshot.png">
+
+### User Story Testing:
+
+* The user would like to be able to sign up for the gym online.
+
+The user can achieve this by clicking the "sign up!" button on the jumbotron of the homepage and also from the sign up buttons on the membership page. - when clicked a form launches for the user.
+
+* The user would like to be able to see the equipment and location of the gym.
+
+The user will see this by clicking on the "About" page which provides all of this information.
+
+* The user would like to be able to have access to the gyms social media. 
+
+The user will be able to do this by clicking on any of the social icons across the footer of all pages. - each link has been clicked and launches a new window tab with the correct social media site.
+
+* The user would like to be able to see the membership options of the gym and also its opening hours.
+
+The user can see this information on the "Membership" and "About" page.
+
+* The user would like to be able to contact the gym if any issues arise.
+
+The user can contact the gym by clicking the contact section of the navigation bar and filling out the contact form.
+
+## Deployment
+
+* [The Gym Foxford](https://mchugh1894.github.io/thegymfoxford/) site is hosted using GitHub pages.
+
+* The deployed site is hosted directly through github so all commits are live.
+
+* To deploy on github open: https://mchugh1894.github.io/thegymfoxford/ -> settings -> scroll to Guthub Pages -> Select Source -> Master Branch -> Save -> After page refresh scroll pack down to github pages section to see the deployed link.
+
+* For local use please visit: https://mchugh1894.github.io/thegymfoxford/ and clone the relevant code from the master branch by selecting code -> Then copy the url -> Open Git Bash on your system -> Change the current directory to where you want the clone to be made -> type "git clone" and paste the URL eg "https://mchugh1894.github.io/thegymfoxford/" -> Press Enter to create your local clone
