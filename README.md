@@ -89,3 +89,9 @@ The technologies i have used for this project are:
 
 * [W3C HTML Validator](https://validator.w3.org/) - ALL HTML pages passed with no errors after corrections made.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - CSS style sheet passed with no errors.
+
+### Image Testing
+
+In order to help the website load faster all of the images were removed from the website and then uploaded to [Tinypng](http://https://tinypng.com/) in order to compress the images to more reasonable file sizes to increase loading speed.
+
+![picture](assets/readme-images/tinypngscreenshot.png)
