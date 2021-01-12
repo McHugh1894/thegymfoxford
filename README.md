@@ -1,6 +1,6 @@
 <img src="assets/images/homepage-logo.png" style="margin: 0;">
 
-Description
+## Description
 
 this is a fictional business website created for my milestone project 1
 
@@ -9,24 +9,23 @@ A modern styled website for a fictional gym that is fully equipped and standards
 ## Wireframes
 The completed wireframes for this project can be accesed by clicking (wireframes [text](https://link))
 
-## Updates Since The Instructional Video
+## UX
+(ux image)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+This website is for a gym. The images and colours have been selected as black & blue to capture attention while not overloading the user with too much information which could distract from signing up to the gym.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+As the website is built to be responsive on smaller devices the navigation bar will shrink to a drop down menu with a hamburger icon.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Across all pages a footer with social links to allow the user to learn more about the gym itself and also contact details.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Overview - All pages built to be responsive on mobiles, tablets and desktopsas all three uses of the website will be expected to be of use.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Home - The home page is designed to provide a clear call to action to result in people wanting to sign up to the gym while also looking attractive to the user. - this has been accomplished by using bootstrap features. the main focus point of this page is a jumbotron in the center with a button to insight users to sign up. 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+About - The About page is used to provide information about the gym. Basic infomation is displayed such as our equipment, location and opening hours. This page is designed to be simple but effective in showing what we are about without overloading the user with information.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Membership - The focus of the Membership page is showing our membership options. It shows the two of monthly and yearly while also having two images of people signing up for a gym. It has two simple sign up buttons under both membership options making it easy to sign up in one click.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Contact - The Contact page has been designed to be simple and easy to use to help the user get in contact with the gym with ease to help create a positive view, the form requires basic user information and email data to be submitted so that the gym can respond the user directly and individually to create a better user experience.
 
---------
 
-Happy coding!
