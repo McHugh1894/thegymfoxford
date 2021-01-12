@@ -1,4 +1,4 @@
-<img src="assets/images/homepage-logo.png" style="margin: 0;">
+<img src="assets/images/readme-images/homepage-logo.png">
 
 ## Description
 
@@ -10,7 +10,7 @@ A modern styled website for a fictional gym that is fully equipped and standards
 The completed wireframes for this project can be accesed by clicking (wireframes [text](https://link))
 
 ## UX
-(ux image)
+<img src="assets/images/readme-images/ux-image.png">
 
 This website is for a gym. The images and colours have been selected as black & blue to capture attention while not overloading the user with too much information which could distract from signing up to the gym.
 
