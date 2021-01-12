@@ -67,15 +67,15 @@ The technologies i have used for this project are:
 
 ## External resources
 
-* [Hero-Image](https://www.sportirelandcampus.ie/facilities/national-indoor-arena-private-gym) - Hero image resource.
-* [Equipment-Image](https://www.sportsjoe.ie/world-of-sport/6-best-pieces-gym-equipment-according-fitness-pros-203880) - Equipment image resource. 
-* [Staff-Image] (https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) - Staff image resource
-* [Location-Image] (Screenshot uploaded) Location Image Resource
-* [Group-Class-Image] (https://www.pinterest.ie/pin/779333910505040746/) - Group Class Image Resource.
-* [Personal-Training-Image] (https://1-life.ca/personal-training-nutrition/) - Personal Training Image Resource.
-* [Physio-Image] (https://nextlevelphysiotherapy.com/) - Physio Image Resource.
-* [Sign-Up-Image-One] (https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) - Sign Up Image One.
-* [Sign-Up-Image-Two] (https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) -Sign Up Image Two.
+* [Hero-Image](https://www.sportirelandcampus.ie/facilities/national-indoor-arena-private-gym) - Hero Image resource.
+* [Equipment-Image](https://www.sportsjoe.ie/world-of-sport/6-best-pieces-gym-equipment-according-fitness-pros-203880) - Equipment Image resource. 
+* [Staff-Image](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) - Staff Image resource
+* [Location-Image](Screenshot uploaded) Location Image Resource
+* [Group-Class-Image](https://www.pinterest.ie/pin/779333910505040746/) - Group Class Image Resource.
+* [Personal-Training-Image](https://1-life.ca/personal-training-nutrition/) - Personal Training Image Resource.
+* [Physio-Image](https://nextlevelphysiotherapy.com/) - Physio Image Resource.
+* [Sign-Up-Image-One](https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) - Sign Up Image One Resource.
+* [Sign-Up-Image-Two](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) -Sign Up Image Two Resource.
 * [Tinypng](http://https://tinypng.com/) - Website used to compress my images to allow for faster loading times. 
 * [Stack Overflow](https://fonts.google.com/) - Resource which provided the fonts for the website
 * [Font Awesome](https://fontawesome.com/) - Used to provide small icons for the website.
@@ -127,3 +127,14 @@ The user can contact the gym by clicking the contact section of the navigation b
 * To deploy on github open: https://mchugh1894.github.io/thegymfoxford/ -> settings -> scroll to Guthub Pages -> Select Source -> Master Branch -> Save -> After page refresh scroll pack down to github pages section to see the deployed link.
 
 * For local use please visit: https://mchugh1894.github.io/thegymfoxford/ and clone the relevant code from the master branch by selecting code -> Then copy the url -> Open Git Bash on your system -> Change the current directory to where you want the clone to be made -> type "git clone" and paste the URL eg "https://mchugh1894.github.io/thegymfoxford/" -> Press Enter to create your local clone
+
+## Credits
+
+* Credits go to my mentor Akshat Garg and the Codeinstitute/slack group for the support with ideas for this project.
+
+### Inspiration
+* I have a huge interest in sports, health and fitness which is why i made this website.
+
+### Credited Code  
+* [Bootstrap](https://getbootstrap.com/) - Documents used for support with bootstrap classes.
+* []
