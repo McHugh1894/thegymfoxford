@@ -6,13 +6,15 @@ this is a fictional business website created for my milestone project 1
 
 A modern styled website for a fictional gym that is fully equipped and standards with added classes and long opening hours. It's hope is to attract new members through an easy to use website.
 
+[LIVE DEPLOYMENT](https://mchugh1894.github.io/thegymfoxford//) 
+
 ## Wireframes
 The completed wireframes for this project can be accesed by clicking (wireframes [text](https://link))
 
 ## UX
 <img src="assets/images/readme-images/ux-image.png">
 
-This website is for a gym. The images and colours have been selected as black & blue to capture attention while not overloading the user with too much information which could distract from signing up to the gym.
+This website is for a gym. The images and colours have been selected as black & blue to capture attention while not overloading the user.
 
 As the website is built to be responsive on smaller devices the navigation bar will shrink to a drop down menu with a hamburger icon.
 
@@ -41,7 +43,7 @@ Purpose:
 
 * To provide an easy to use website showing the gym and what the gym offers.
 * To provide a website that is simple and easy to navigate so the potential member isn't put off by an overload of information.
-* To provide a simple to use service for potential clients to sign up and join the gym.
+* To provide a simple to use service for potential members to join the gym.
 * To provide information as to the location and contact details of the gym.
 
 Designer:
@@ -54,9 +56,9 @@ Designer:
  Target Audiance:
 
 * Fitness motivated people.
-* Located in Foxford.
 * Gym users of all ages.
-* Local sports teams.
+* Local sports clubs.
+* Located in Foxford.
 
  ## Technologies
 The technologies i have used for this project are:
@@ -121,7 +123,7 @@ The user can contact the gym by clicking the contact section of the navigation b
 
 ## Credits
 
-* Credits go to my mentor Akshat Garg and the Codeinstitute/slack group for the support with ideas for this project.
+* Credits go to my mentor Akshat Garg and the Codeinstitute/slack group for the help with this project.
 
 ### Inspiration
 * I have a huge interest in sports, health and fitness which is why i made this website.
@@ -136,8 +138,8 @@ The user can contact the gym by clicking the contact section of the navigation b
 * [Personal Training Image](https://1-life.ca/personal-training-nutrition/) - Personal Training Image Resource.
 * [Physio Image](https://nextlevelphysiotherapy.com/) - Physio Image Resource.
 * [Sign Up Image One](https://blogs.canterbury.ac.nz/insiders/2020/02/11/reccentre-membership-renewals-for-2020/) - Sign Up Image One Resource.
-* [Sign Up Image Two](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) -Sign Up Image Two Resource.
+* [Sign Up Image Two](https://media.istockphoto.com/photos/gym-registration-picture-id1014073852?k=6&m=1014073852&s=612x612&w=0&h=1mqOjmqCGXB-tazZCI5U5H7kBVJ9nP--caKW2JLhCHI=) - Sign Up Image Two Resource.
 
 ### Credited Code  
 * [Bootstrap](https://getbootstrap.com/) - Documents used for support with bootstrap classes.
-* [Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/b51f7b8b815c4bcd9979d2281b6d97a9/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40b51f7b8b815c4bcd9979d2281b6d97a9) This link is where i got footer code.I modified it to suit the needs of my website.
+* [Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/b51f7b8b815c4bcd9979d2281b6d97a9/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40b51f7b8b815c4bcd9979d2281b6d97a9) This link is where i got the code for the footer. I modified it to suit the needs of my website.

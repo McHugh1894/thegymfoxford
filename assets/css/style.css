@@ -96,9 +96,9 @@ h1 {
   width: 100%;
 }
 .feature {
-  display: inline;
+  
   text-align: center;
-  margin-bottom: 11cm;
+  margin: 0 auto;
   padding-bottom: 30px;
   padding-top: 40px;
   }
@@ -111,6 +111,11 @@ h1 {
   width: 50%;
   color: #025df0;
   
+}
+@media only screen and (max-width: 500px) {
+  .feature {
+    display: inline;
+  }
 }
 
 
@@ -150,7 +155,7 @@ h1 {
 .card-body {
   color: black;
   font-family: "Roboto";
-  width: 50%;
+  
 }
 .card-title {
   margin-top: 80px;
@@ -178,6 +183,11 @@ h1 {
   align-items: center;
   text-align: center;
 }
+
+
+
+
+
 /*End Membership Page*/
 
 /*Contact Page*/
