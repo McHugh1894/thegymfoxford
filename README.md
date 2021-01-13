@@ -9,7 +9,7 @@ A modern styled website for a fictional gym that is fully equipped and standards
 [LIVE DEPLOYMENT](https://mchugh1894.github.io/thegymfoxford//) 
 
 ## Wireframes
-The completed wireframes for this project can be accesed by clicking (wireframes [text](https://link))
+The completed wireframes for this project can be accesed by clicking [Wireframes](https://github.com/McHugh1894/thegymfoxford/tree/master/assets/Wireframes)
 
 ## UX
 <img src="assets/images/readme-images/ux-image.png">
