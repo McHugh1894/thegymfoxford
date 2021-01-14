@@ -14,6 +14,19 @@ The completed wireframes for this project can be accesed by clicking [Wireframes
 ## UX
 <img src="assets/images/readme-images/ux-image.png">
 
+### Speed Testing
+
+After compressing all the website images i then chose to run all my pages through [GT Metrix - Speed test](https://gtmetrix.com//) to get a view of the page load speeds.
+
+<img src="assets/images/readme-images/homepage-performance.png">
+
+<img src="assets/images/readme-images/Aboutpage-performance.png">
+
+<img src="assets/images/readme-images/Membershippage-performance.png">
+
+<img src="assets/images/readme-images/contactpage-performance.png">
+
+
 This website is for a gym. The images and colours have been selected as black & blue to capture attention while not overloading the user.
 
 As the website is built to be responsive on smaller devices the navigation bar will shrink to a drop down menu with a hamburger icon.
